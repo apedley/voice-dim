@@ -1,3 +1,7 @@
+### 1.2.1 - 2022-09-25 - Refresh Items
+
+- Added a function to refresh items
+
 ### 1.2.0 - 2022-09-24 - Always Listening
 
 - Added a toggle-able `Always Listening` mode
